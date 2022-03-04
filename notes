@@ -1,0 +1,15 @@
+Agenda:
+
+	Practice GIT
+		- Basic terminal navigation
+		- Company git simulation
+		- Branch creation
+		- Push the changes
+		- Request PR
+		- Review PR
+		- Merge the changes
+		- Conflict resolution
+			- switch to master git checkout master
+			- git pull origin master
+			- switch back to your own branch git checkout {your branch}
+            - git rebase origin/master
