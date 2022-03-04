@@ -13,3 +13,5 @@ Agenda:
 			- git pull origin master
 			- switch back to your own branch git checkout {your branch}
             - git rebase origin/master
+
+Iurii is here
